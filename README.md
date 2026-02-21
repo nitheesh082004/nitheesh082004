@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitheesh Kommuri</h1>
+<h1 align="center">Hi 👋🏻, I'm Nitheesh Kommuri</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Java+Developer;Data+Structures+%26+Algorithms;System+Design+Learner;Aspiring+Software+Engineer" />
@@ -23,19 +23,19 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,mysql" />
 </p>
 
-### ⚙️ Backend & Database
+### 📚 Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,wordpress,linux,vscode" />
 </p>
 
 ---

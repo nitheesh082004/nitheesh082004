@@ -60,13 +60,36 @@
 
 ---
 
+---
+
 ## 📌 Featured Work
 
-### 🔹 QR Attendance System
-- Implemented secure authentication using JWT  
-- Designed role-based access control  
-- Backend-focused implementation  
+### 🔹 Product Review & Sentiment-Based Ranking System (2025)
+- Built an NLP-driven product review analysis system  
+- Used **Stanford CoreNLP** for sentiment analysis  
+- Dynamically ranked products based on customer sentiment scores  
+- Tech: Java, Stanford CoreNLP, JDBC, MySQL  
 
+---
+
+### 🔹 Distributed Job Scheduling & Worker System (2026)
+- Designed a distributed task scheduling system using **ASP.NET Core**
+- Implemented Kafka-based asynchronous job processing  
+- Added retry & failure-handling mechanisms  
+- Used Redis-based distributed locking to prevent duplicate execution  
+- Tech: C#, ASP.NET Core, Kafka, Redis, SQL Server, Docker  
+
+---
+
+### 🔹 Real-Time Chat & Notification System (2026)
+- Built a real-time messaging platform using WebSockets  
+- Implemented JWT-based authentication  
+- Integrated Kafka for async message handling  
+- Designed relational database schema for persistence  
+- Developed responsive chat UI using React  
+- Tech: Java, Spring Boot, PostgreSQL, Kafka, Redis, React  
+
+---
 ### 🔹 DSA Practice Repository
 - Optimized Java solutions  
 - Covers arrays, binary search, recursion, trees, graphs  

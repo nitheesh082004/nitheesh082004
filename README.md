@@ -18,7 +18,7 @@
 
 - 🎓 4th Year Computer Science Student  
 - 💻 Strong foundation in **Java & Data Structures**
-- 🧠 Solved 250+ DSA problems  
+- 🧠 Solved 300+ DSA problems  
 - ⚡ Focused on problem-solving & optimization  
 - 🌱 Currently learning **System Design**
 - 🎯 Preparing for product-based company roles  
